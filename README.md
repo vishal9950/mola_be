@@ -7,6 +7,8 @@ Create a `.env` file in the root of the project containing the Twitter API Beare
 TWITTER_BEARER_TOKEN=YOUR-TOKEN-HERE
 ```
 
+Install the dependencies using `npm i` command.
+
 # Start the server
 
 Run `npm start` to start the server on port 8000. Frontend is configured to work with 8000. Change accordingly!
